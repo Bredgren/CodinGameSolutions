@@ -6,6 +6,5 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Lua,
 
 # Status
 - Easy
-  - Horse-Sacing Duals (In prgress)
-    - Done: Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Lua, ObjectiveC, OCaml, Pascal, Perl, PHP, Python, Python3, Ruby, Rust, Scala, Swift3
-    - Remaining: VB.NET
+  - Horse-Sacing Duals (Done 5/16/17)
+    - Done: Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Lua, ObjectiveC, OCaml, Pascal, Perl, PHP, Python, Python3, Ruby, Rust, Scala, Swift3, VB.NET
