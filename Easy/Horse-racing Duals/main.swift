@@ -19,7 +19,7 @@ if N > 0 {
 strengths.sort()
 
 var min = strengths[1] - strengths[0]
-for i in 1...N-2 {
+for i in 0...N-2 {
     let d = strengths[i+1] - strengths[i]
     if d < min {
         min = d
@@ -30,3 +30,18 @@ print(min)
 
 // Write an action using print("message...")
 // To debug: print("Debug messages...", to: &errStream)
+
+/* Cool solution by someone else
+let n = Int(readLine()!)!
+var power = [Int]()
+for i in 0..<n {
+    power.append(Int(readLine()!)!)
+}
+power.sort()
+
+var diff = Int.max
+for i in 1..<n {														// <n to be excusive it seems
+    diff = min(power[i]-power[i-1], diff)
+}
+print(diff)
+*/
