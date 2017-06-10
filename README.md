@@ -9,5 +9,5 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Lua,
   - Horse-Sacing Duals (Done 5/16/17)
     - Done: All
   - Horse-Sacing Duals (In progress)
-    - Done: Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Lua, OCaml, Pascal, Perl, PHP, Python, Python3, Ruby
-    - Remaining: Rust, Scala, Swift3, VB.NET
+    - Done: Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Lua, OCaml, Pascal, Perl, PHP, Python, Python3, Ruby, Rust
+    - Remaining: Scala, Swift3, VB.NET
