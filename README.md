@@ -14,5 +14,5 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Lua,
     - Done: Go, Bash, C, C++, C#, Clojure, Dart, F#, Groovy, Haskell
     - Remaining: Java, JavaScript, Lua, OCaml, Pascal, Perl, PHP, Python, Python3, Ruby, Rust, Scala, Swift3, VB.NET
   - Chuck Norris (In Progress)
-    - Done: Go, Bash, C, C++, C#, Clojure, Dart, F#, Groovy
-    - Remaining: Haskell, Java, JavaScript, Lua, OCaml, Pascal, Perl, PHP, Python, Python3, Ruby, Rust, Scala, Swift3, VB.NET
+    - Done: Go, Bash, C, C++, C#, Clojure, Dart, F#, Groovy, Haskell
+    - Remaining: Java, JavaScript, Lua, OCaml, Pascal, Perl, PHP, Python, Python3, Ruby, Rust, Scala, Swift3, VB.NET
