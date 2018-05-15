@@ -6,9 +6,9 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Lua,
 
 # Status
 - Easy
-  - Horse-Sacing Duals (Done 5/16/17)
+  - Horse-Racing Duals (Done 5/16/17)
     - Done: All
-  - Horse-Sacing Duals (Done 6/12/17)
+  - Defibrillators (Done 6/12/17)
     - Done: All
   - MIME Type (In Progress)
     - Done: Go, Bash, C, C++, C#, Clojure, Dart, F#, Groovy, Haskell, Java
