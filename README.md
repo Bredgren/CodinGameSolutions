@@ -16,7 +16,7 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotl
 | Clojure    | X     | X     | X    | X     |      |      |      |      |         |         |
 | Dart       | X     | X     | X    | X     |      |      |      |      |         |         |
 | F#         | X     | X     | X    | X     |      |      |      |      |         |         |
-| Go         | X     | X     | X    | X     |      |      |      |      |         |         |
+| Go         | X     | X     | X    | X     | X    |      |      |      |         |         |
 | Groovy     | X     | X     | X    | X     |      |      |      |      |         |         |
 | Haskell    | X     | X     | X    | X     |      |      |      |      |         |         |
 | Java       | X     | X     | X    |       |      |      |      |      |         |         |
