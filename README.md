@@ -10,7 +10,7 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotl
 |            | Horse | Defib | MIME | Chuck | ASCI | Mars | Temp | Thor | Descent | Onboard |
 | ---------- |:-----:|:-----:|:----:|:-----:|:----:|:----:|:----:|:----:|:-------:|:-------:|
 | Bash       | X     | X     | X    | X     |      |      |      |      |         |         |
-| C          | X     | X     | X    | X     |      |      |      |      |         |         |
+| C          | X     | X     | X    | X     | X    |      |      |      |         |         |
 | C++        | X     | X     | X    | X     |      |      |      |      |         |         |
 | C#         | X     | X     | X    | X     |      |      |      |      |         |         |
 | Clojure    | X     | X     | X    | X     |      |      |      |      |         |         |
