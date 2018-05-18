@@ -10,7 +10,7 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotl
 |            | Horse   | Defib   | MIME    | Chuck  | ASCII  | Mars   | Temp   | Thor   | Descent | Onboard |
 | ---------- |:-------:|:-------:|:-------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|
 | Bash       | [X][1]  | [X][2]  | [X][3]  | [X][4] |        |        |        |        |         |         |
-| C          | [X][11] | [X][12] | [X][13] | [X][14]| [X][15]| [X][16]| [X][17]|        |         |         |
+| C          | [X][11] | [X][12] | [X][13] | [X][14]| [X][15]| [X][16]| [X][17]| [X][18]|         |         |
 | C++        | [X][21] | [X][22] | [X][23] | [X][24]|        |        |        |        |         |         |
 | C#         | [X][31] | [X][32] | [X][33] | [X][34]|        |        |        |        |         |         |
 | Clojure    | [X][41] | [X][42] | [X][43] | [X][44]|        |        |        |        |         |         |
@@ -46,6 +46,7 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotl
 [15]: Easy/ASCII%20Art/main.c
 [16]: Easy/Mars%20Lander/main.c
 [17]: Easy/Temperatures/main.c
+[18]: Easy/Power%20of%20Thor/main.c
 
 [21]: Easy/Horse-racing%20Duals/main.cpp
 [22]: Easy/Defibrillators/main.cpp
