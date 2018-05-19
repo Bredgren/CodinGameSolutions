@@ -7,131 +7,131 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotl
 # Status
 ## Easy
 
-|            | Horse   | Defib   | MIME    | Chuck  | ASCII  | Mars   | Temp   | Thor   | Descent | Onboard |
-| ---------- |:-------:|:-------:|:-------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|
-| Bash       | [X][1]  | [X][2]  | [X][3]  | [X][4] |        |        |        |        |         |         |
-| C          | [X][11] | [X][12] | [X][13] | [X][14]| [X][15]| [X][16]| [X][17]| [X][18]| [X][19] | [X][20] |
-| C++        | [X][21] | [X][22] | [X][23] | [X][24]|        |        |        |        |         |         |
-| C#         | [X][31] | [X][32] | [X][33] | [X][34]|        |        |        |        |         |         |
-| Clojure    | [X][41] | [X][42] | [X][43] | [X][44]|        |        |        |        |         |         |
-| Dart       | [X][51] | [X][52] | [X][53] | [X][54]|        |        |        |        |         |         |
-| F#         | [X][61] | [X][62] | [X][63] | [X][64]|        |        |        |        |         |         |
-| Go         | [X][71] | [X][72] | [X][73] | [X][74]| [X][75]| [X][76]| [X][77]| [X][78]| [X][79] | [X][80] |
-| Groovy     | [X][81] | [X][82] | [X][83] | [X][84]|        |        |        |        |         |         |
-| Haskell    | [X][91] | [X][92] | [X][93] | [X][94]|        |        |        |        |         |         |
-| Java       | [X][101]| [X][102]| [X][103]|        |        |        |        |        |         |         |
-| JavaScript | [X][111]| [X][112]|         |        |        |        |        |        |         |         |
-| Kotlin     |         |         |         |        |        |        |        |        |         |         |
-| Lua        | [X][131]| [X][132]|         |        |        |        |        |        |         |         |
-| OCaml      | [X][141]| [X][142]|         |        |        |        |        |        |         |         |
-| Pascal     | [X][151]| [X][152]|         |        |        |        |        |        |         |         |
-| Perl       | [X][161]| [X][162]|         |        |        |        |        |        |         |         |
-| PHP        | [X][171]| [X][172]|         |        |        |        |        |        |         |         |
-| Python3    | [X][181]| [X][182]|         |        |        |        |        |        |         |         |
-| Ruby       | [X][191]| [X][192]|         |        |        |        |        |        |         |         |
-| Rust       | [X][201]| [X][202]|         |        |        |        |        |        |         |         |
-| Scala      | [X][211]| [X][212]|         |        |        |        |        |        |         |         |
-| Swift      | [X][221]| [X][222]|         |        |        |        |        |        |         |         |
-| VB.NET     | [X][231]| [X][232]|         |        |        |        |        |        |         |         |
+|            | Onboard | Descent | Thor   | Temp   | MIME   | ASCII  | Chuck  | Defib  | Horse  | Mars   |
+| ---------- |:-------:|:-------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| Bash       |         |         |        |        |[X][5]  |        |[X][7]  |[X][8]  |[X][9]  |        |
+| C          |[X][11]  |[X][12]  |[X][13] |[X][14] |[X][15] |[X][16] |[X][17] |[X][18] |[X][19] |[X][20] |
+| C++        |         |         |        |        |[X][25] |        |[X][27] |[X][28] |[X][29] |        |
+| C#         |         |         |        |        |[X][35] |        |[X][37] |[X][38] |[X][39] |        |
+| Clojure    |         |         |        |        |[X][45] |        |[X][47] |[X][48] |[X][49] |        |
+| Dart       |         |         |        |        |[X][55] |        |[X][57] |[X][58] |[X][59] |        |
+| F#         |         |         |        |        |[X][65] |        |[X][67] |[X][68] |[X][69] |        |
+| Go         |[X][71]  |[X][72]  |[X][73] |[X][74] |[X][75] |[X][76] |[X][77] |[X][78] |[X][79] |[X][80] |
+| Groovy     |         |         |        |        |[X][85] |        |[X][87] |[X][88] |[X][89] |        |
+| Haskell    |         |         |        |        |[X][95] |        |[X][97] |[X][98] |[X][99] |        |
+| Java       |         |         |        |        |[X][105]|        |        |[X][108]|[X][109]|        |
+| JavaScript |         |         |        |        |        |        |        |[X][118]|[X][119]|        |
+| Kotlin     |         |         |        |        |        |        |        |        |        |        |
+| Lua        |         |         |        |        |        |        |        |[X][138]|[X][139]|        |
+| OCaml      |         |         |        |        |        |        |        |[X][148]|[X][149]|        |
+| Pascal     |         |         |        |        |        |        |        |[X][158]|[X][159]|        |
+| Perl       |         |         |        |        |        |        |        |[X][168]|[X][169]|        |
+| PHP        |         |         |        |        |        |        |        |[X][178]|[X][179]|        |
+| Python3    |         |         |        |        |        |        |        |[X][188]|[X][189]|        |
+| Ruby       |         |         |        |        |        |        |        |[X][198]|[X][199]|        |
+| Rust       |         |         |        |        |        |        |        |[X][208]|[X][209]|        |
+| Scala      |         |         |        |        |        |        |        |[X][218]|[X][219]|        |
+| Swift      |         |         |        |        |        |        |        |[X][228]|[X][229]|        |
+| VB.NET     |         |         |        |        |        |        |        |[X][238]|[X][239]|        |
 
-[1]: Easy/Horse-racing%20Duals/main.bash
-[2]: Easy/Defibrillators/main.bash
-[3]: Easy/MIME%20Type/main.bash
-[4]: Easy/Chuck%20Norris/main.bash
+[5]: Easy/MIME%20Type/main.bash
+[7]: Easy/Chuck%20Norris/main.bash
+[8]: Easy/Defibrillators/main.bash
+[9]: Easy/Horse-racing%20Duals/main.bash
 
-[11]: Easy/Horse-racing%20Duals/main.c
-[12]: Easy/Defibrillators/main.c
-[13]: Easy/MIME%20Type/main.c
-[14]: Easy/Chuck%20Norris/main.c
-[15]: Easy/ASCII%20Art/main.c
-[16]: Easy/Mars%20Lander/main.c
-[17]: Easy/Temperatures/main.c
-[18]: Easy/Power%20of%20Thor/main.c
-[19]: Easy/The%20Descent/main.c
-[20]: Easy/Onboarding/main.c
+[11]: Easy/Onboarding/main.c
+[12]: Easy/The%20Descent/main.c
+[13]: Easy/Power%20of%20Thor/main.c
+[14]: Easy/Temperatures/main.c
+[15]: Easy/MIME%20Type/main.c
+[16]: Easy/ASCII%20Art/main.c
+[17]: Easy/Chuck%20Norris/main.c
+[18]: Easy/Defibrillators/main.c
+[19]: Easy/Horse-racing%20Duals/main.c
+[20]: Easy/Mars%20Lander/main.c
 
-[21]: Easy/Horse-racing%20Duals/main.cpp
-[22]: Easy/Defibrillators/main.cpp
-[23]: Easy/MIME%20Type/main.cpp
-[24]: Easy/Chuck%20Norris/main.cpp
+[25]: Easy/MIME%20Type/main.cpp
+[27]: Easy/Chuck%20Norris/main.cpp
+[28]: Easy/Defibrillators/main.cpp
+[29]: Easy/Horse-racing%20Duals/main.cpp
 
-[31]: Easy/Horse-racing%20Duals/main.cs
-[32]: Easy/Defibrillators/main.cs
-[33]: Easy/MIME%20Type/main.cs
-[34]: Easy/Chuck%20Norris/main.cs
+[35]: Easy/MIME%20Type/main.cs
+[37]: Easy/Chuck%20Norris/main.cs
+[38]: Easy/Defibrillators/main.cs
+[39]: Easy/Horse-racing%20Duals/main.cs
 
-[41]: Easy/Horse-racing%20Duals/main.clj
-[42]: Easy/Defibrillators/main.clj
-[43]: Easy/MIME%20Type/main.clj
-[44]: Easy/Chuck%20Norris/main.clj
+[45]: Easy/MIME%20Type/main.clj
+[47]: Easy/Chuck%20Norris/main.clj
+[48]: Easy/Defibrillators/main.clj
+[49]: Easy/Horse-racing%20Duals/main.clj
 
-[51]: Easy/Horse-racing%20Duals/main.dart
-[52]: Easy/Defibrillators/main.dart
-[53]: Easy/MIME%20Type/main.dart
-[54]: Easy/Chuck%20Norris/main.dart
+[55]: Easy/MIME%20Type/main.dart
+[57]: Easy/Chuck%20Norris/main.dart
+[58]: Easy/Defibrillators/main.dart
+[59]: Easy/Horse-racing%20Duals/main.dart
 
-[61]: Easy/Horse-racing%20Duals/main.fs
-[62]: Easy/Defibrillators/main.fs
-[63]: Easy/MIME%20Type/main.fs
-[64]: Easy/Chuck%20Norris/main.fs
+[65]: Easy/MIME%20Type/main.fs
+[67]: Easy/Chuck%20Norris/main.fs
+[68]: Easy/Defibrillators/main.fs
+[69]: Easy/Horse-racing%20Duals/main.fs
 
-[71]: Easy/Horse-racing%20Duals/main.go
-[72]: Easy/Defibrillators/main.go
-[73]: Easy/MIME%20Type/main.go
-[74]: Easy/Chuck%20Norris/main.go
-[75]: Easy/ASCII%20Art/main.go
-[76]: Easy/Mars%20Lander/main.go
-[77]: Easy/Temperatures/main.go
-[78]: Easy/Power%20of%20Thor/main.go
-[79]: Easy/The%20Descent/main.go
-[80]: Easy/Onboarding/main.go
+[71]: Easy/Onboarding/main.go
+[72]: Easy/The%20Descent/main.go
+[73]: Easy/Power%20of%20Thor/main.go
+[74]: Easy/Temperatures/main.go
+[75]: Easy/MIME%20Type/main.go
+[76]: Easy/ASCII%20Art/main.go
+[77]: Easy/Chuck%20Norris/main.go
+[78]: Easy/Defibrillators/main.go
+[79]: Easy/Horse-racing%20Duals/main.go
+[80]: Easy/Mars%20Lander/main.go
 
-[81]: Easy/Horse-racing%20Duals/main.groovy
-[82]: Easy/Defibrillators/main.groovy
-[83]: Easy/MIME%20Type/main.groovy
-[84]: Easy/Chuck%20Norris/main.groovy
+[85]: Easy/MIME%20Type/main.groovy
+[87]: Easy/Chuck%20Norris/main.groovy
+[88]: Easy/Defibrillators/main.groovy
+[89]: Easy/Horse-racing%20Duals/main.groovy
 
-[91]: Easy/Horse-racing%20Duals/main.hs
-[92]: Easy/Defibrillators/main.hs
-[93]: Easy/MIME%20Type/main.hs
-[94]: Easy/Chuck%20Norris/main.hs
+[95]: Easy/MIME%20Type/main.hs
+[97]: Easy/Chuck%20Norris/main.hs
+[98]: Easy/Defibrillators/main.hs
+[99]: Easy/Horse-racing%20Duals/main.hs
 
-[101]: Easy/Horse-racing%20Duals/main.java
-[102]: Easy/Defibrillators/main.java
-[103]: Easy/MIME%20Type/main.java
+[105]: Easy/MIME%20Type/main.java
+[109]: Easy/Horse-racing%20Duals/main.java
+[108]: Easy/Defibrillators/main.java
 
-[111]: Easy/Horse-racing%20Duals/main.js
-[112]: Easy/Defibrillators/main.js
+[118]: Easy/Defibrillators/main.js
+[119]: Easy/Horse-racing%20Duals/main.js
 
-[131]: Easy/Horse-racing%20Duals/main.lua
-[132]: Easy/Defibrillators/main.lua
+[138]: Easy/Defibrillators/main.lua
+[139]: Easy/Horse-racing%20Duals/main.lua
 
-[141]: Easy/Horse-racing%20Duals/main.ml
-[142]: Easy/Defibrillators/main.ml
+[148]: Easy/Defibrillators/main.ml
+[149]: Easy/Horse-racing%20Duals/main.ml
 
-[151]: Easy/Horse-racing%20Duals/main.pas
-[152]: Easy/Defibrillators/main.pas
+[158]: Easy/Defibrillators/main.pas
+[159]: Easy/Horse-racing%20Duals/main.pas
 
-[161]: Easy/Horse-racing%20Duals/main.pl
-[162]: Easy/Defibrillators/main.pl
+[168]: Easy/Defibrillators/main.pl
+[169]: Easy/Horse-racing%20Duals/main.pl
 
-[171]: Easy/Horse-racing%20Duals/main.php
-[172]: Easy/Defibrillators/main.php
+[178]: Easy/Defibrillators/main.php
+[179]: Easy/Horse-racing%20Duals/main.php
 
-[181]: Easy/Horse-racing%20Duals/main.py
-[182]: Easy/Defibrillators/main.py
+[188]: Easy/Defibrillators/main.py
+[189]: Easy/Horse-racing%20Duals/main.py
 
-[191]: Easy/Horse-racing%20Duals/main.rb
-[192]: Easy/Defibrillators/main.rb
+[198]: Easy/Defibrillators/main.rb
+[199]: Easy/Horse-racing%20Duals/main.rb
 
-[201]: Easy/Horse-racing%20Duals/main.rs
-[202]: Easy/Defibrillators/main.rs
+[208]: Easy/Defibrillators/main.rs
+[209]: Easy/Horse-racing%20Duals/main.rs
 
-[211]: Easy/Horse-racing%20Duals/main.sc
-[212]: Easy/Defibrillators/main.sc
+[218]: Easy/Defibrillators/main.sc
+[219]: Easy/Horse-racing%20Duals/main.sc
 
-[221]: Easy/Horse-racing%20Duals/main.swift
-[222]: Easy/Defibrillators/main.swift
+[228]: Easy/Defibrillators/main.swift
+[229]: Easy/Horse-racing%20Duals/main.swift
 
-[231]: Easy/Horse-racing%20Duals/main.vb
-[232]: Easy/Defibrillators/main.vb
+[238]: Easy/Defibrillators/main.vb
+[239]: Easy/Horse-racing%20Duals/main.vb
