@@ -27,7 +27,7 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotl
 | Pascal     |         |         |        |        |        |        |        |[X][158]|[X][159]|        |
 | Perl       |         |         |        |        |        |        |        |[X][168]|[X][169]|        |
 | PHP        |         |         |        |        |        |        |        |[X][178]|[X][179]|        |
-| Python3    |[X][181] |         |        |        |        |        |        |[X][188]|[X][189]|        |
+| Python3    |[X][181] |[X][182] |        |        |        |        |        |[X][188]|[X][189]|        |
 | Ruby       |         |         |        |        |        |        |        |[X][198]|[X][199]|        |
 | Rust       |         |         |        |        |        |        |        |[X][208]|[X][209]|        |
 | Scala      |         |         |        |        |        |        |        |[X][218]|[X][219]|        |
@@ -119,6 +119,7 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotl
 [179]: Easy/Horse-racing%20Duals/main.php
 
 [181]: Easy/Onboarding/main.py
+[182]: Easy/The%20Descent/main.py
 [188]: Easy/Defibrillators/main.py
 [189]: Easy/Horse-racing%20Duals/main.py
 
