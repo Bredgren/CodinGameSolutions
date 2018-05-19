@@ -16,7 +16,7 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotl
 | Clojure    | [X][41] | [X][42] | [X][43] | [X][44]|        |        |        |        |         |         |
 | Dart       | [X][51] | [X][52] | [X][53] | [X][54]|        |        |        |        |         |         |
 | F#         | [X][61] | [X][62] | [X][63] | [X][64]|        |        |        |        |         |         |
-| Go         | [X][71] | [X][72] | [X][73] | [X][74]| [X][75]| [X][76]| [X][77]| [X][78]|         |         |
+| Go         | [X][71] | [X][72] | [X][73] | [X][74]| [X][75]| [X][76]| [X][77]| [X][78]| [X][79] |         |
 | Groovy     | [X][81] | [X][82] | [X][83] | [X][84]|        |        |        |        |         |         |
 | Haskell    | [X][91] | [X][92] | [X][93] | [X][94]|        |        |        |        |         |         |
 | Java       | [X][101]| [X][102]| [X][103]|        |        |        |        |        |         |         |
@@ -81,6 +81,7 @@ Bash, C, C++, C#, Clojure, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotl
 [76]: Easy/Mars%20Lander/main.go
 [77]: Easy/Temperatures/main.go
 [78]: Easy/Power%20of%20Thor/main.go
+[79]: Easy/The%20Descent/main.go
 
 [81]: Easy/Horse-racing%20Duals/main.groovy
 [82]: Easy/Defibrillators/main.groovy
